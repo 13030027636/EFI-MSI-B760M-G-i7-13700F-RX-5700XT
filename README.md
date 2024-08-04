@@ -7,4 +7,4 @@
 6. 解决usb接口黑苹果不可用问题。https://apple.sqlsec.com/6-%E5%AE%9E%E7%94%A8%E5%A7%BF%E5%8A%BF/6-1.html#reloaded
 7. 解决黑苹果SSDT修正关机/重启问题。（https://heipg.cn/acpi/fix-shutdown-restart.html）
 
-注意：我安装之后更新不了系统，所以最后安装的时候就选好macOS的版本。偏差不大的硬件，可以直接使用此EFI。
+注意：我安装之后更新不了系统，所以最后安装的时候就选好macOS的版本。偏差不大的硬件，可以直接使用此EFI。安装黑苹果确实麻烦，相比在虚拟机里安装黑苹果简单些
